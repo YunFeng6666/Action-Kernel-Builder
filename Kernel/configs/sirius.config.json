@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "Mi8SE",
-      "repo": "https://github.com/Shakawazu/sirius_Kernel",
+      "repo": "https://github.com/YunFeng6666/sirius_Kernel",
       "branch": "sirius-q-oss",
       "device": "sirius",
       "defconfig": "sirius_zhong_defconfig"
